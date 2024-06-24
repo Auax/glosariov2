@@ -1,0 +1,1587 @@
+[
+  {
+    "type": "Términos gramaticales",
+    "name": "Adjetivo",
+    "description": "Palabra que describe sustantivos"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Adjetivo adverbial",
+    "description": "(Adverbio) Corrió **rápidamente**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Adjetivo calificativo",
+    "description": "Describen propiedades del sustantivo. Función: añadir información adicional del nombre, cualidades.\n\n > Libro **interesante**\n\n > Coche **azul**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Adjetivo determinativo",
+    "description": "(Determinante) especificar un sustantivo más precisamente, se colocan antes del nombre.\n\n > Mi **libro** favorito."
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Adjetivo relacional",
+    "description": "Crean un vínculo o relación del nombre con un grupo de palabras. No modifician el nombre en número o grado, pero lo relacionan con un tema en concreto.\n\n > Música **brasileña**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Adjunto",
+    "description": "Complemento adjunto, es prescindible.\n\n > Juan habla **claramente**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Adverbio adjetival",
+    "description": "Adverbio que hace como un adjetivo, normalmente acaban en '-mente'.\n\n > Un nombre **amablemente** sonrió"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Adverbio de afirmación",
+    "description": "Reforzar o suavizar una declaración: ciertamente, efectivamente, obviamente, etc."
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Adverbio de negación",
+    "description": "No, en absoluto, nunca, etc."
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Adverbio de cantidad",
+    "description": "Responden a la pregunta:'¿cuánto?'  \nAlgo, bastante, mucho, nada, etc."
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Adverbio de foco",
+    "description": "Resaltar la palabra o sintagma sobre el cual se incide.\n\n > He cogido **solo** las manzanas.\n\n*'Solo' focaliza 'las manzanas', hace que destaque sobre el resto.*"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Adverbio de duda",
+    "description": "Denotan incertidumbre o inseguridad.\n\n**A lo mejor**, **posiblemente**, **puede**, **serguramente**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Adverbio de grado",
+    "description": "Modifica/intensifica el significado de un adjetivo / verbo.\n\n > Estoy **muy** contento."
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Adverbio de lugar",
+    "description": "Aquí, allí, detrás, encima..."
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Adverbio de manera",
+    "description": "Cómo se realiza la acción: rápidamente, lentamente, cuidadosamente..."
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Adverbio de tiempo",
+    "description": "¿Cuándo?: ahora, ayer, mañana, pronto, tarde, antes..."
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Adverbio demostrativo",
+    "description": "Engloban los adverbios de lugar, tiempo, grado."
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Adverbio exclamativo",
+    "description": "Qué, cómo, cuánto.\n\n > ¡**Qué** calor que hace!"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Adverbio interrogativo",
+    "description": "Dónde, quién, cuántos, cómo.\n\n > ¿**Dónde** está?"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Adverbio pronominal",
+    "description": "= pronombre"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Afijo",
+    "description": "Modifica el significado o las propiedades gramaticales de la raíz:  \nSufijo, Afijo, Infijo"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Afijo derivativo",
+    "description": "Se agrega a una raíz para crear una palabra nueva, modifican la categoría gramatical o el significado. Permita formar palabras nuevas derivadas a partir de la raíz.  \n- Prefijos: ***des**hacer*  \n-Sufijo: *cocin**ero***"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Afijo flexivo",
+    "description": "Una o mas letras que se añaden a la raíz para crear variantes que indican género, número, persona, tiempo y modo. \n\n-*Niñ**o*** / -*Niñ**a***\n\n Indica género en este caso."
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Agente (papel temático)",
+    "description": "Designa la persona, animal o cosa que realiza la acción del verbo.\n\n > *María despertó a los niños* **→** *Los niños fueron despertados por María*"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Agramaticalidad",
+    "description": "No sigue las normas de la gramática."
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Alomorfo",
+    "description": "Cada una de las diferenetes formas que puede tener un morfema\n\n-***In**visible*→***Im**posible*→***I**legal*"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Ambiguedad",
+    "description": "Puede entenderse de distintas formas.\n\n > *Eligió un coche rápido*\n\nPuede entenderse como que eligió rápidamente un coche o que eligió un coche que va a alta velocidad."
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Antecedente",
+    "description": "Cosa o persona sobre la que se habla en la oración de relativo o también es el sustantivo / SN al cual hace referéncia un pronombre después.\n\n > ***El libro** que me dejaste*\n\n*que* hace referencia al antecedente ***el libro***"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Antonímia",
+    "description": "Palabras contrarias: ***claro*** / ***oscuro***"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Aposición",
+    "description": "Poner un elemento junto a otro elemento para aclarar su significado.*El loro **Juanito***"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Argumento",
+    "description": "Complemento necesario para el verbo"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Artículo",
+    "description": "Determinante artículo.\n\n***El, la...***"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Aspecto gramatical",
+    "description": "Expresa desarrollo interno de la acción verbal, informando sobre la manera o la exetensión temporal.\n\n*Pasado **imperfecto***, *pasado **perfecto***"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Atributo",
+    "description": "indica cualidades del sujeto. Solo verbos copulativos.\n\n > *Luís es **mecanico***"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Base (de derivación)",
+    "description": "Raíz (dónde añadimos morfemas)"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Caso",
+    "description": "## Caso nominativo\n >*El niño come.* **El niño** recibe caso nominativo\n## Caso Acusativo\n >*El niño come carne.* **Carne** recibe el caso acusativo del verbo comer.\n## Caso Dativo\n > *Él le regaló un cromo a su amigo*. **le** y **su amigo** reciben caso dativo (CI)\n## Caso genitivo (relaciones de pertinencia u origen)\n > *El niño **de** Juan*. **Juan** recibe caso genitivo (SN).\n"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Catáfora",
+    "description": "Término que anuncia un elemento que aparecerá más tarde.\n\n> Llegaron **dos personas**, **Juan y Carlos**.\n\n"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Categoría gramatical",
+    "description": "Nombre, adjetivo, verbo..."
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Categoría léxica",
+    "description": "Conjunto de palabras cuyo número en el léxicon del hablante puede seguir aumentando: sustantivos, adjetivos, verbos y adverbios."
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Clítico",
+    "description": "Pronombres átonos sin acento propio, deben aparecer justo antes o después del verbo.\nNada puede insertarse entre el verbo y el pronombre clítico.\n\n> **Lo** hice, **te lo** dije.\n> Haciendo**lo**\n\n"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Complemento agente",
+    "description": "De las oraciones pasivas. Indica quién ejecuta la acción.\n> La reserva fue hecha **por mi esposa**\n"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Complemento circunstancial",
+    "description": "Son complementos adjuntos.\n\n - Lugar\n - Tiempo\n - Causa\n - Modo\n - Finalidad\n - Compañía\n - Instrumento\n...\n\n"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Complemento de medida argumental",
+    "description": "CD que indica cantidad. Es exigido por el verbo a diferencia del CC. Cantidad.\n**Indica**\n- Precio: costar / valer\n- Extensión: medir\n- Peso: pesar\n- Capacidad y otras magnitudes: durar\n\n   > Cuesta mucho **dinero** (CMed)\n\n"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Complemento de régimen preposicional (CRV)",
+    "description": "Acompaña a un verbo que necesita una prep. para completar su significado.\n\n   > Ana se arrepintió **de no haber ido**\n\n"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Complemento del adjetivo",
+    "description": "Sintagma preposicional que complementa el significado del adjetivo, especificando información que le falta.\n> El vestido **azul** celeste\n"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Complemento del adverbio",
+    "description": "Sintagma preposicional que complementa el significado del adverbio, especificando información que le falta.\n> **Mañana sábado** iremos a casa\n"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Complemento del nombre (CN)",
+    "description": "> El motor **diésel**.\n\"Diésel\" complementa al nombre \"motor\" \n"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Complemento directo (CD)",
+    "description": "> Juan vio **un cuadro**. → Juan **lo** vio.\n\n> Nadie vio **a Pedro**. → Nadie **lo** vio."
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Complemento indirecto (CI)",
+    "description": "A quien recae indirectamente la acción verbal.\n> Juan envió una carta **a María** →  Juan **le** envió una carta.\n"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Complemento locativo argumental",
+    "description": "Indica un lugar como el CLL, pero es argumental.\n> Ana reside **en Zaragoza**\n"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Complemento predicativo",
+    "description": "Acompaña al verbo y expresa una cualidad o estado del sujeto / CD.\n> La mujer corría **desesperada**. Hacer referencia a \"la mujer\"\n"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Composición",
+    "description": "Formación de nuevas palabras juntando dos o más palabras (lexemas)."
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Compuesto",
+    "description": "Unión de palabras simples que forman una unidad ortográfica\n- Agridulce\n- Abrelatas\n- Cortauñas\n"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Concordancia",
+    "description": "Que el texto se ajuste a las categorías gramaticales (género, número y persona)\n> Los niños juega**n** (concuerda sujeto y predicado)\n\n"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Condicional compuesto",
+    "description": "Habría + verbo en participio.\n- Habría estudiado\n"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Condicional simple",
+    "description": "Abriría, haría, iría, etc."
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Conectores discursivos",
+    "description": "Vincular partes del texto. Conectan oraciones o párrafos.\n- \"Para empezar\"\n- \"Además\"\n- \"Y\"\n- \"Sin embargo\"\n"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Conjugación",
+    "description": "Diferentes formas de un verbo"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Conjunción",
+    "description": "Establecen relaciones entre palabras y oraciones. Conectan cosas dentro de la oración."
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Conjunción adversativa",
+    "description": "Sentido adverso.\n- Sino\n- Aunque\n> No estudia, sino que trabaja.\n"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Conjunción causal",
+    "description": "Expresan causa\n- Porque\n- como\n- dado que\n- ya que\n"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Conjunción concesiva",
+    "description": "Oposición, restricción.\n- Aunque\n- Si bien\n- así \n- a pesar de\n"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Conjunción condicional",
+    "description": "Condición o necesidad de verificar una circunstancia.\n- Si\n- En el caso de que\n- Siempre que.\n"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Conjunción consecutiva",
+    "description": "Introduce una oración que es consecuencia de algo\n- Así que\n- Por tanto\n- Pues\n"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Conjunción coordinante",
+    "description": "Une elementos que no dependen entre sí (ej: oraciones coordinadas).\n- Y\n- Ni\n- Pero\n- Sino\n"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Conjunción copulativa",
+    "description": "Suma o adición.\n- y\n- e\n- ni\n"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Conjunción disyuntiva",
+    "description": "Conjunción que une dos proposiciones en una oración coordinada disyuntiva.\n\n**Escoge este u otro.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Conjunción final",
+    "description": "Une oraciones subordinadas que indican la finalidad de lo expresado en la oración principal.\n\n**Lo hago con el fin de triunfar.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Conjunción ilativa",
+    "description": "Conjunción subordinante que introduce una oración en la que se expresa la consecuencia de la oración principal. Ilativa: no cuantificativa (Estaba cansada, conque no fui a la fiesta)\n\n**Ya he hecho los deberes, así que ya puedo irme.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Conjunción modal",
+    "description": "Une oraciones subordinadas que indican el modo en el cual sucede la acción de la proposición principal. Sustituir por expresión: ´del mismo modo en que; en función de que sea`.\n\n**Me vestí tal como quería.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Conjunción subordinante",
+    "description": "Une elementos sintácticos entre los que se establecen relaciones de subordinación.\n\n**Me hace falta que lo hagas.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Conjunción temporal",
+    "description": "Une oraciones subordinadas que indican el tiempo en el que sucede la acción de la proposición principal.\n\n**Lo hablamos mientras dormías.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Connotación",
+    "description": "Significado secundario y subjetivo que tiene una palabra por su asociación con otras.\n\n**Es una zorra. = Es una prostituta.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Construcción comparativa",
+    "description": "Secuencia de palabras vinculadas entre sí que constituyen una unidad gramatical que denota comparación.\n\n**Marcos es  más inteligente que Minerva.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Contracción [“conglomerado” en el GTG]",
+    "description": "Unión de una preposición con un artículo.\n\n**Él es del barrio.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Coordinación",
+    "description": "Unión de dos proposiciones donde cada una tiene la misma equivalencia y pueden ser independientes.\n\n**Patricio es médico y Ana ingeniera.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Cuantificador",
+    "description": "Palabras que expresan un valor numérico. Pueden ser nombre (un millón), pronombres (algo), determinantes (algunas niñas) o adverbios (muy alegre).\n\n**Me gustan muchas cosas.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Cultismo",
+    "description": "Palabra que proviene del latín o griego que no ha sufrido prácticamente ningún cambio o evolución, frente a las patrimoniales que sí las han sufrido.\n\n**El aula es enorme.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Deixis",
+    "description": "Designa la referencia, por medio de unidades gramaticales de la lengua, a elementos del contexto de la comunicación. Son deícticas todas las expresiones lingüísticas (del tipo yo, aquí, ahora) que se interpretan en relación con un elemento de la enunciación (interlocutores, coordenadas de espacio y tiempo).\n\n**Me atraen aquellos.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Demostrativo",
+    "description": "Palabra que sirve para mostrar o señalar un referente en el contexto lingüístico o extralingüístico. Puede ser un adjetivo, un determinante o un pronombre.\n\n**Este es el mejor.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Dequeísmo",
+    "description": "Uso, normativamente censurado, de la secuencia de que para introducir una oración subordinada que no admite ese régimen verbal.\n\n**Creyeron de que lo iba a conseguir.***"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Derivado [derivación]",
+    "description": "Dicho de una palabra formada por derivación. [Proceso de formación de palabras por medio de afijos. Afijos derivativos: prefijo, infijo, sufijo.]\n\n**Visible --> Invisible**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Desinencia",
+    "description": "Morfema flexivo pospuesto a la raíz, especialmente la de un verbo.\n\n**Nosotros visitamos el pueblo.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Determinante",
+    "description": "Clase de palabras cuyos elementos determinan al sustantivo o al grupo nominal y se sitúan generalmente en posición prenominal.\n\n**Son algunos de mis amigos.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Determinante definido",
+    "description": "Determinante que sirve principalmente para limitar la extensión del nombre a entidades identificables por los interlocutores. Son el artículo, demostrativo y posesivos.\n\n**La chiquilla es preciosa.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Determinante demostrativo",
+    "description": "Determinante que señala algo o a alguien y lo identifica en función de la distancia espacial o temporal que lo separa del hablante.\n\n**Este hombre es el más inteligente del mundo.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Determinante exclamativo",
+    "description": "Determinante que permite construir expresiones exclamativas.\n\n**¡Cuántas ranas!**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Determinante indefinido",
+    "description": "Determinante que sirve principalmente para limitar la extensión del nombre a entidades no identificables por los interlocutores.\n\n**Hay unos coches fuera.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Determinante interrogativo",
+    "description": "Determinante que permite construir expresiones interrogativas.\n\n**¿Quién te hizo eso?**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Determinante numeral cardinal",
+    "description": "Determinante que expresa con precisión el número de seres a los que se refiere.\n\n**Hay dos pájaros.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Determinante posesivo",
+    "description": "Determinante que indica posesión o pertenencia.\n\n**Es mi vida.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Discurso directo",
+    "description": "El hablante reproduce literalmente las palabras de otro.\n\n**Mi madre dijo: - Hola.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Discurso indirecto",
+    "description": "El hablante refiere lo enunciado por otro anclando los elementos deícticos en el momento del habla.\n\n**Me preguntó si habías dormido bien.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Elipsis",
+    "description": "Omisión de un segmento sintáctico cuyo contenido se puede recuperar por el contexto.\n\n**(Tú) no entiendes lo que siento.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Especificativo",
+    "description": "Delimita el significado del sustantivo al que hace referencia. En la escritura no hay pausa entre el sustantivo y la oración.\n\n**Dame la camisa negra.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Estructura argumental",
+    "description": "Conjunto ordenado de los argumentos que un predicado exige en función de su significado.\n\n**La estructura narrativa es un ejemplo.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Explicativo",
+    "description": "No delimita el significado del sustantivo antecedente. En la escritura va entre comas, a modo de inciso, y si se elimina, no se resiente el significado de la oración.\n\n**La blanca nieve.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Familia léxica",
+    "description": "Conjunto de formas que se obtiene con las variantes flexivas de una palabra.\n\n**Pan, panadería, panadero...**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Flexión",
+    "description": "Alteración experimentada por algunas voces, que consiste en un cambio en la terminación, en la vocal de la raíz o en otros elementos, y que codifica diversos contenidos gramaticales.\n\n**Gato, gatos...**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Forma no personal",
+    "description": "Forma de la flexión verbal que no expresa persona ni tampoco número, tiempo o modo. Infinitivo, gerundio y participio.\n\n**Infinitivo, gerundio y participio.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Forma personal",
+    "description": "Forma de la flexión verbal que expresa persona, y también número, tiempo o modo.\n\n**Hago, haces, hacemos...**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Función sintáctica",
+    "description": "Papel que desempeña una palabra, morfema o constituyente sintáctico dentro de la construcción sintáctica en que está incluida.\n\n**Sujeto, predicado...**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Futuro compuesto",
+    "description": "Futuro que denota anterioridad a un punto posterior al momento del habla y presenta a la vez como terminada la acción expresada por el verbo.\n\n**En un futuro lo habrá hecho.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Futuro simple",
+    "description": "Tiempo absoluto que expresa que algo existirá o tendrá lugar en un momento posterior al momento del habla.\n\n**Lo haré.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Género",
+    "description": "Género que se manifiesta a través de determinada concordancia y que en pronombres y sustantivos que designan seres animados suele denotar sexo femenino.\n\n**Masculino, femenino y neutro.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Género femenino",
+    "description": "Género que se manifiesta a través de determinada concordancia y que en pronombres y sustantivos que designan seres animados suele denotar sexo femenino.\n\n**La lámpara.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Género masculino",
+    "description": "Género que se manifiesta a través de determinada concordancia y que en pronombres y en sustantivos que designan seres animados suele denotar sexo masculino.\n\n**El murciélago.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Género neutro",
+    "description": "En algunas lenguas indoeuropeas, género que no es ni masculino ni femenino.\n\n**Lo amarillo te sienta bien.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Gerundio",
+    "description": "Forma no personal compuesta o simple, cuya terminación en español es -ndo, que puede formar perífrasis verbales y aparecer en diversos contextos en los que posee carácter adverbial.\n\n**Arreando, que es gerundio.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Grado comparativo",
+    "description": "Grado del adjetivo o del adverbio en que se atribuye lo expresado en una comparación.\n\n**Es tan blanco como Miquel.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Grado positivo",
+    "description": "Grado del adjetivo o del adverbio en el que no se evalúa la intensidad de la cualidad denotada por estos.\n\n**Es ignorante.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Grado superlativo",
+    "description": "Grado del adjetivo o del adverbio en que se atribuye intensidad máxima a la cualidad denotada por estos. Superlativo absoluto: -Superlativo morfológico: -ísimo, -érrimo; super-, mega-, hiper-. -Elativo léxico: extraordinario, enorme, delicioso, espléndido, terrible, precioso.\n\n**La barra es extralarga.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Gramática",
+    "description": "Parte de la lengua que estudia la morfología, la sintaxis, la ortografía y léxico de la lengua.\n\n**La vida es bonita.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Gramaticalidad",
+    "description": "Cualidad de una secuencia de palabras o morfemas por la que se ajusta a las reglas de la gramática.\n\n**Las ganas de hacerlo me superan.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Gramaticalización",
+    "description": "Proceso mediante el cual una palabra pierde su contenido significativo originario y se convierte en un elemento gramatical.\n\n**Hay dos peces --> Ha llegado a hacerlo genial.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Heterónimo",
+    "description": "Palabra que se opone en género a otra de distinta raíz.\n\n**Caballo/Yegua**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Hiperonimia",
+    "description": "Palabra cuyo significado engloba a otras palabras u otro grupo de palabras cuyas tienen relación entre ellas.\n\n**Animales**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Hiponimia",
+    "description": "Palabras que se encuentran dentro de un hiperónimo, englobadas por un hiperónimo y que tienen una relación entre ellas.\n\n**Loro, cerdo...**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Homofonía",
+    "description": "Dicho de una palabra que suena igual que otra, pero que tiene distinto significado y tiene distinta ortografía.\n\n**Hola/Ola**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Homografía",
+    "description": "Condición de aquellas palabras que se escriben y se pronuncian igual, pero cuyos significados no tienen ninguna relación. Además, la categoría gramatical es distinta y si se buscan en el diccionario figuran en diferentes entradas.\n\n**Amo (amar) / Amo (dueño)**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Homonimia",
+    "description": "Palabras que suenan o se escriben igual pero que no guardan ninguna relación entre ellas. Se clasifican en homófonas y homógrafas.\n\n**Lengua (idioma) / Lengua (órgano)**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Infijo",
+    "description": "Dicho de un afijo que se intercala en el interior de la raíz de una palabra.\n\n**Polvo --> Polvareda**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Infinitivo",
+    "description": "Forma no personal del verbo, cuya terminación en español es -ar, -er o -ir.\n\n**Andar, ser, existir...**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Interjección",
+    "description": "Clase de palabras invariables con cuyos elementos se forman enunciados exclamativos que manifiestan impresiones, verbalizan sentimientos o realizan actos de habla apelativos.\n\n**¡Ah!**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Laísmo",
+    "description": "Empleo incorrecto de las formas la y las del pronombre átono para el complemento indirecto femenino en lugar de le y les.\n\n**La dije que me lo diera.***"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Leísmo",
+    "description": "Empleo incorrecto de las formas le y les del pronombre átono para el complemento directo en lugar de las formas lo, la, los y las.\n\n**Manuel estaba allí, pero no le vi.***"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Lexicalización",
+    "description": "Cambio lingüístico mediante el que se forma una unidad lingüística a partir de una unidad sintáctica. Pérdida progresiva de la independencia gramatical de los componentes de la expresión compleja.\n\n**Braille --> inventor**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Léxico",
+    "description": "Que expresa contenidos o conceptos propios del léxico, por oposición a los característicos de la gramática. Pueden ser morfemas o palabras.\n\n**Caja, zapato...**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Locución",
+    "description": "Combinación fija de varios vocablos que funciona como una determinada clase de palabras.\n\n**Tuve un golpe de suerte.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Marca de palabra",
+    "description": "Segmento átono, generalmente vocálico, que determina el paradigma flexivo del sustantivo y del adjetivo. Algunas marcas de palabra pueden coincidir con los morfemas de género, pero muchas no lo hacen.\n\n**Mano, mesa...**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Modalidad",
+    "description": "Expresión de la actitud del hablante en relación con el contenido de lo que se comunica. Declarativa o enunciativa, desiderativa u optativa, dubitativa, imperativa o exhortativa, interrogativa, exclamativa.\n\n**Interrogativa, desiderativa, dubitativa...**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Modificador",
+    "description": "Función sintáctica del segmento que incide sobre un núcleo y sus complementos, si los hubiera. Además, todos tienen en común su posición en el inicio del sintagma.\n\n**Mi pequeña alegría.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Modo",
+    "description": "Categoría gramatical que se expresa en el verbo mediante flexión, y manifiesta, entre otros valores, la actitud del hablante hacia lo enunciado o la dependencia sintáctica en algunas clases de subordinación.\n\n**Tuve que hacerlo.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "(modo) imperativo",
+    "description": "Modo verbal que utilizamos para expresar órdenes, mandatos o solicitudes. Este modo se emplea para dar instrucciones, sugerencias o consejos. En otras palabras, el modo imperativo se refiere a lo que se quiere que se haga. El modo imperativo se compone de dos formas: afirmativa y negativa.\n\n**Háblame.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "(modo) indicativo",
+    "description": "Modo verbal que utilizamos para expresar acciones reales, objetivas y concretas. Este modo se emplea para afirmar, negar o interrogar una acción que se considera real o verdadera. En otras palabras, el modo indicativo se refiere a lo que se sabe o se cree que es verdad. El modo indicativo se compone de ocho tiempos verbales: presente, pretérito perfecto, pretérito imperfecto, pretérito pluscuamperfecto, pretérito indefinido, futuro simple, futuro perfecto y condicional simple.\n\n**Está haciendo los deberes.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "(modo) subjuntivo",
+    "description": "Modo verbal que utilizamos para expresar acciones hipotéticas, inciertas o subjetivas. Este modo se emplea para expresar deseos, dudas, posibilidades, mandatos y emociones. En otras palabras, el modo subjuntivo se refiere a lo que se desea, se teme o se duda que sea verdad. El modo subjuntivo se compone de cuatro tiempos verbales: presente, pretérito imperfecto, pretérito perfecto y futuro.\n\n**Si yo cantara...**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Morfema",
+    "description": "Unidad mínima de lengua con significado. 1. Morfema: a) raíz y b) afijo. b) afijo: flexivo y derivativo. - Flexivo: morfema de género, número, persona, tiempo… - Derivativo: prefijo, infijo, sufijo.\n\n**Sol.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Morfología",
+    "description": "Parte de la gramática que estudia la estructura de las palabras y de sus elementos constitutivos.\n\n**Embarcar --> Em-barc-a-r**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Negación",
+    "description": "Categoría semántica a la que pertenecen las voces con las que se niega algo.\n\n**Nadie, jamás, ninguno...**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Neologismo",
+    "description": "Vocablo, acepción o giro nuevo en una lengua\n\n**Selfi, ciberataque...**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Nombre",
+    "description": "Clase de palabras cuyos elementos poseen género y número, forman sintagmas nominales con diversas funciones sintácticas y designan entidades de diferente naturaleza.\n\n**Patata, nuez...**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Nombre ambiguo (en cuanto al género)",
+    "description": "Nombre común que se emplea como masculino o como femenino sin que el cambio de género implique un cambio de significado.\n\n**Mar, sartén...**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Nombre animado",
+    "description": "Nombre que designa personas, animales o seres considerados vivientes.\n\n**Perro, gato...**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Nombre colectivo",
+    "description": "Nombre común que en singular designa un conjunto homogéneo de cosas, animales o personas.\n\n**Pedregal, bosque...**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Nombre común",
+    "description": "Nombre que se aplica a personas, animales o cosas que pertenecen a una misma clase, especie o familia, y cuyo significado expresa su naturaleza o sus cualidades.\n\n**Mesa, niño, parque...**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Nombre concreto",
+    "description": "Nombre que designa seres reales o que se pueden representar como tales.\n\n**Pelota, bate...**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Nombre contable",
+    "description": "Nombre que designa personas, animales o cosas que se pueden contar.\n\n**Estuche, silla...**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Nombre inanimado",
+    "description": "Nombre que designa seres carentes de vida animal.\n\n**Puente, pizarra...**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Nombre individual",
+    "description": "Por oposición al colectivo, nombre que en singular designa un solo ser.\n\n**Libreta, altavoz...**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Nombre no contable",
+    "description": "Nombre común que designa sustancias, materias y otras nociones que no se pueden contar, pero sí medir, pesar o cuantificar de otro modo.\n\n**Arroz, envidia...**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Nombre propio",
+    "description": "Nombre sin rasgos semánticos inherentes que designa un único ser. Antropónimo, topónimo, zoónimo.\n\n**Río Ebro**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Núcleo",
+    "description": "Palabra fundamental de un sintagma.\n\n**La niña bella.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Número",
+    "description": "Categoría gramatical que constituye una propiedad flexiva de los nombres, los pronombres, los adjetivos, los determinantes y los verbos. Puede adquirir dos valores: singular y plural.\n\n**Manta/Mantas**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Onomatopeya",
+    "description": "Formación de una palabra por imitación del sonido de aquello que designa.\n\n**Tic-tac...**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Oración",
+    "description": "Estructura de predicación en la que se pone en relación el sujeto con un predicado, representados en su forma prototípica por un sintagma nominal y un sintagma verbal, respectivamente.\n\n**Me habló de ti.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Oración (de modalidad) declarativa",
+    "description": "Oración que expresa un juicio afirmando o negando algún estado de cosas.\n\n**El cielo está nublado.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Oración (de modalidad) desiderativa",
+    "description": "Oración construida en modo subjuntivo que manifiesta un deseo del hablante sin la necesidad de un predicado verbal que exprese léxicamente ese significado.\n\n**Desearía tener un perro.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Oración (de modalidad) dubitativa",
+    "description": "Oración introducida por adverbios o locuciones adverbiales que expresan duda.\n\n**Tal vez se ha ido.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Oración (de modalidad) exclamativa",
+    "description": "Oración con la que el hablante expresa una reacción emotiva (sorpresa, asombro, satisfacción, rabia, etc.) y enjuicia a través de ella muy diversas cosas, personas o situaciones.\n\n**¡Qué fuerte eres!**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Oración (de modalidad) imperativa",
+    "description": "Oración con la que el hablante pide o solicita algo, o bien anima o alienta a su realización, con muy diversos grados de énfasis en la demanda requerida.\n\n**Haz la comida.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Oración (de modalidad) interrogativa",
+    "description": "Oración con la que se pregunta algo o con la que el hablante introduce una incógnita que puede resolverse discursivamente de diversas maneras.\n\n**¿Me lo puedes decir?**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Oración (en voz) activa",
+    "description": "Oración cuyo sujeto es agente o participante activo de la acción o el proceso expresados por el verbo.\n\n**Montserrat hizo muchas cosas.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Oración (en voz) media",
+    "description": "Oración que se construye con un verbo intransitivo que expresa un cambio de estado. El sujeto es un agente experimentante, o el tema o paciente de dicho proceso. Se diferencian de las oraciones en voz pasiva, en las que el referente del sujeto recibe la acción que realiza otro participante.\n\n**Mi coche se arruinó.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Oración (en voz) pasiva",
+    "description": "Oración cuyo sujeto es el paciente de la acción o el proceso expresados por el verbo. Pasiva perifrástica: verbo ser + participio. Pasiva refleja: se morfema pronominal\n\n**Fue visto por Paquita.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Oración compuesta",
+    "description": "Oración formada por dos o más oraciones. Las oraciones que forman una oración compuesta están vinculadas por coordinación, por yuxtaposición o por subordinación.\n\n**Me dijo que la besara.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Oración coordinada",
+    "description": "Cada una de las oraciones que forman una oración compuesta por coordinación.\n\n**¿Lo tomas o lo dejas?**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Oración (coordinada) adversativa",
+    "description": "Oración compuesta por coordinación en la que las oraciones se relacionan a través de una conjunción adversativa.\n\n**Me gustas, pero no me tratas bien.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Oración (coordinada) copulativa",
+    "description": "Oración en la que un predicado se predica de un sujeto a través de un verbo copulativo.\n\n**Eres un descarado y un sinvergüenza.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Oración (coordinada) disyuntiva",
+    "description": "Oración compuesta por coordinación en la que dos o más oraciones se relacionan a través de una conjunción disyuntiva.\n\n**Puedes leer o comer magdalenas.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Oración impersonal",
+    "description": "Oración que carece de sujeto expreso y, en la mayor parte de los contextos, también de sujeto tácito. Clasificación: Unipersonal: llover, nevar, granizar, anochecer… Gramaticalizada: haber, hacer, ser. Refleja: se + verbo en 3.ª pers. sing. Sujeto tácito inespecífico (eventuales): 3.ª pers. pl.\n\n**Está nevando.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Oración intransitiva",
+    "description": "Oración construida a partir de un verbo intransitivo, es decir, de un verbo que carece de complemento directo.\n\n**Nadé mucho.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Oración principal",
+    "description": "Oración que contiene otra, llamada oración subordinada, y que no depende a su vez jerárquicamente de ninguna otra.\n\n**Eres un payaso, no haces más que tonterías.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Oración simple",
+    "description": "Oración que no contiene otra oración, sea como argumento o como adjunto de alguno de sus componentes.\n\n**Amo la comida.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Oración subordinada",
+    "description": "Oración que depende de un núcleo o de algún otro segmento mayor, a los que complementa o modifica.\n\n**Me comentó que te lo daría.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Oración (subordinada) adverbial",
+    "description": "Oración subordinada encabezada por una conjunción subordinante que desempeña la función de complemento circunstancial del predicado de la oración principal. Destacan las subordinadas temporales no relativas y las subordinadas modales no relativas. Clasificación: 1. Adverbiales de tiempo y modo. 2. Construcciones: comparativas, superlativas y consecutivas. 3. Construcciones causales, finales e ilativas. 4. Construcciones concesivas y condicionales.\n\n**Lo hice como querías.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Oración (subordinada) causal",
+    "description": "Oración subordinada que introduce la causa de lo expresado por el predicado al que modifica. Este predicado se interpreta generalmente como el ‘efecto’.\n\n**Lo regalé porque ya no lo quería.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Oración (subordinada) concesiva",
+    "description": "Oración subordinada adverbial encabezada por una conjunción concesiva en la que se manifiesta un impedimento inefectivo para que se dé la situación expresada en la oración principal.\n\n**Te quiero a pesar de todo.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Oración (subordinada) condicional",
+    "description": "Oración subordinada adverbial encabezada por una conjunción condicional. La prótasis condicional introduce un requisito que debe cumplirse para que se dé, a modo de efecto, lo expresado por la oración principal (apódosis).\n\n**Iremos siempre que te portes bien.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Oración (subordinada) consecutiva",
+    "description": "Construcción en la que se expresa un valor máximo aplicado a una magnitud y se añade la consecuencia que de él se obtiene.\n\n**Lee tantos libros que sabe mucho.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Oración (subordinada) de relativo",
+    "description": "Oración subordinada encabezada por un pronombre, adverbio o determinante relativo, o bien por los sintagmas que estas voces forman.\n\n**La casa que deseaba era preciosa.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Oración (subordinada) de relativo especificativa",
+    "description": "Oración de relativo que constituye un modificador restrictivo del antecedente, que especifica la denotación del nombre y fija la referencia del sintagma nominal en el que la relativa se inserta.\n\n**El cisne que brilla está en Mataró.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Oración (subordinada) de relativo explicativa",
+    "description": "Oración de relativo que se adjunta entre pausas al sintagma nominal. Estas oraciones se agregan a modo de inciso o construcción parentética.\n\n**La nieve, que es blanca, me encanta.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Oración (subordinada) final",
+    "description": "Tradicionalmente, oración que aporta significado de ‘propósito’ o ‘finalidad’ del evento o suceso denotado por la predicación de la oración principal. En la actualidad, no existen y se reinterpretan como sintagmas preposicionales y como oración sub. sustantiva.\n\n**Lo hizo para que le dieran dinero.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Oración (subordinada) ilativa",
+    "description": "Oración subordinada adverbial que introduce una consecuencia natural de lo afirmado en la oración principal. Estas oraciones están encabezadas por una conjunción ilativa o una locución conjuntiva.\n\n**Has actuado mal, conque serás castigado.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Oración (subordinada) sustantiva",
+    "description": "Oración subordinada que desempeña las funciones características de los sustantivos o de los sintagmas nominales. Son argumentos y aparecen incrustadas en una unidad más amplia, que puede ser una oración o un sintagma preposicional.\n\n**Es importante que llegues antes.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Oración transitiva",
+    "description": "Oración que contiene como parte de su predicado un verbo transitivo y un complemento directo, sea expreso o tácito.\n\n**Quiero chuches.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Oración yuxtapuesta",
+    "description": "Cada una de las oraciones que forman una oración compuesta por yuxtaposición.\n\n**Haz algo, vive la vida.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Paciente (papel temático / función semántica)",
+    "description": "Argumento que designa la entidad que recibe un cambio de estado o sufre los efectos de la acción o el proceso dotados por el predicado.\n\n**El cuadro fue robado por los malhechores.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Papel temático [en el gtg, aparece semántica”] como “función",
+    "description": "Papel que desempeña cada participante de un predicado en función de sus propiedades semánticas. Se trata de interpretaciones tales como ‘agente’, ‘paciente’, ‘experimentante’, ‘destinatario’, ‘origen’, etc.\n\n**Me voy a Gerona.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Palabra",
+    "description": "Unidad lingüística, dotada generalmente de significado, que se separa de las demás mediante pausas potenciales en la pronunciación y blancos en la escritura.\n\n**Coco.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Palabra compleja",
+    "description": "Grupo de palabras que se entiende como una sola.\n\n**Caja fuerte.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Palabra invariable",
+    "description": "Palabra que no cambia su forma.\n\n**Por, ante, pero...**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Palabra patrimonial",
+    "description": "Aquella que proviene directamente del latín vulgar y ha experimentado todas las transformaciones, fonéticas en su significante y semánticas en su significado, ocasionadas por la evolución.\n\n**Oro, rezar, hierba...**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Palabra simple",
+    "description": "Palabra que está constituida por una sola raíz seguida o no de afijos flexivos.\n\n**Rayo, mar, montaña...**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Palabra variable",
+    "description": "Palabra que varía su forma.\n\n**Botella, bonito...**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Paradigma",
+    "description": "Relación de elementos que comparten un mismo contexto fonológico, morfológico o sintáctico en función de sus propiedades lingüísticas.\n\n**Alto, bajo...**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Paradigma flexivo",
+    "description": "Conjunto de formas que se obtiene con las variantes flexivas de una palabra.\n\n**Flexivo/a, flexivos/as...**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Parasíntesis",
+    "description": "Proceso de formación de palabras en que intervienen simultáneamente la prefijación y sufijación. También pueden formarse palabras parasintéticas mediante la composición y la derivación a la vez.\n\n**Quinceañera, desvainar...**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Parasintético",
+    "description": "Dicho de una palabra que se ha formado por parasíntesis.\n\n**Asombrar, gordinflón...**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Participio",
+    "description": "Forma no personal del verbo que posee terminación - ado, -ido en el paradigma regular del español y puede formar tiempos compuestos.\n\n**Votado, calculado...**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Partícula",
+    "description": "Palabra invariable que expresa significados y relaciones de naturaleza gramatical.\n\n**Por, de, para...**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Pasiva perifrástica",
+    "description": "Oración que se forma con el verbo auxiliar ser (o estar) más el participio del verbo que se conjuga. La aparición del complemento agente no es estrictamente necesaria.\n\n**La cantante fue interpretada por la cantante.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Pasiva refleja",
+    "description": "Oración de significado pasivo constituida por un sujeto paciente en tercera persona, un verbo transitivo y la forma pronominal se.\n\n**Se alquilan casas en verano.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Perífrasis (verbal) aspectual",
+    "description": "Informa sobre el desarrollo de la acción verbal.\n\n**Empezó a caminar.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Perífrasis (verbal) modal",
+    "description": "Informa sobre la actitud del hablante ante la acción verbal.\n\n**Federico debe hacer poemas.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Perífrasis verbal",
+    "description": "Construcción sintáctica integrada por dos o más verbos que funcionan como núcleo del predicado. Se emplea para expresar las características de la acción verbal que no pueden señalarse mediante el uso de las formas simples o compuestas.\n\n**Debe hacer la comida.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Persona",
+    "description": "Forma del paradigma de la conjugación verbal que corresponde a una persona gramatical (masculino, femenino o neutro; primera, segunda, tercera).\n\n**Yo, tú, él...**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Plural",
+    "description": "Número que se manifiesta a través de determinada concordancia y que en nombres y pronombres normalmente expresa la referencia a varias entidades.\n\n**Tazas, monos...**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Pluralia tantum",
+    "description": "Nombre que solo tiene su forma en plural.\n\n**Andadas, afueras...**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Polisemia",
+    "description": "Pluralidad de significados de una expresión lingüística.\n\n**Cómoda, banco, vela...**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Posesivo",
+    "description": "Que expresa posesión.\n\n**Mi ratoncillo.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Predicado",
+    "description": "Segmento sintáctico que aporta la información atribuida al sujeto en una relación de carácter bimembre. El predicado aporta propiedades, estados, procesos y acciones que se atribuyen a las personas o las cosas designadas por el sujeto. Predicado nominal: verbo copulativo o semicopulativo + atributo. Predicado verbal: verbo predicativo\n\n**Rosa es la mejor.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Prefijo [prefijación]",
+    "description": "Dicho de un afijo que va antepuesto principalmente a la raíz. [Proceso de formación de palabras por medio de prefijos.]\n\n**Invisible.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Preposición",
+    "description": "Clase de palabras invariables cuyos elementos se caracterizan por introducir un término, generalmente nominal u oracional, con el que forman grupo sintáctico.\n\n**A, para, por...**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Presente",
+    "description": "Tiempo que sitúa la acción, el proceso o el estado expresados por el verbo en un lapso que incluye el momento del habla.\n\n**Nosotros hacemos regalos.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Pretérito anterior",
+    "description": "Tiempo perfectivo que sitúa la acción, el proceso o el estado expresados por el verbo en un punto del pasado inmediatamente anterior a otro punto también pasado.\n\n**Lo hube hecho.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Pretérito imperfecto",
+    "description": "Tiempo imperfectivo que indica que la acción, el proceso o el estado expresados por el verbo se desarrollan de manera simultánea a cierta acción pasada.\n\n**Lo hacía genial.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Pretérito perfecto compuesto",
+    "description": "Tiempo perfectivo que sitúa la acción, el proceso o el estado expresados por el verbo en un momento anterior al presente en un lapso no concluido.\n\n**Caterina lo ha hecho perfectamente.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Pretérito perfecto simple",
+    "description": "Tiempo perfectivo que indica que la acción, el proceso o el estado expresados por el verbo se sitúan en un punto anterior al momento del habla.\n\n**Cantaste de una forma maravillosa.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Pretérito pluscuamperfecto",
+    "description": "Tiempo perfectivo que sitúa la acción, el proceso o el estado expresados por el verbo en un momento anterior a otro, igualmente pasado.\n\n**Si lo hubieras hecho antes estarías menos estresado.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Pronombre",
+    "description": "Clase de palabras cuyos elementos hacen las veces del sustantivo o del sintagma nominal y que se emplean para referirse a las personas, los animales o las cosas sin nombrarlos.\n\n**Ellos son magníficos.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Pronombre átono",
+    "description": "Pronombre clítico y, como tal, aparece siempre delante o detrás de una voz tónica, generalmente un verbo. Tiene la función de CD o CI.\n\n**Me gustan las fresas.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Pronombre demostrativo",
+    "description": "Pronombre que señala algo o a alguien y lo identifica en función de la distancia espacial o temporal que lo separa del hablante.\n\n**Este es genial.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Pronombre exclamativo",
+    "description": "Pronombre que permite construir expresiones exclamativas.\n\n**¡Qué dices!**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Pronombre indefinido",
+    "description": "Pronombre que expresa cantidad o grado de manera indeterminada.\n\n**Solamente quiero algunas.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Pronombre interrogativo",
+    "description": "Pronombre que permite construir enunciados interrogativos.\n\n**¿Cuál quieres?**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Pronombre numeral cardinal",
+    "description": "Pronombre que expresa el valor numérico con respecto al sustantivo o grupo nominal al que sustituye.\n\n**Hay dos monos.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Pronombre personal",
+    "description": "Pronombre que posee flexión de persona, número y caso y que designa a los participantes en el discurso.\n\n**Vosotros sois listos.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Pronombre recíproco",
+    "description": "Dicho de un pronombre o una expresión pronominal con referente plural que tiene como antecedente otros argumentos del mismo predicado en una situación en la que se expresan relaciones mutuas.\n\n**Nos damos la mano.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Pronombre reflexivo",
+    "description": "Dicho de un pronombre personal que tiene como antecedente otro argumento del mismo predicado.\n\n**Me peino.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Pronombre relativo",
+    "description": "Pronombre que desempeña una función sintáctica en la oración subordinada que introduce, inserta esta en una unidad superior y tiene antecedente expreso o implícito.\n\n**Los pájaros que me gustan.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Pronombre tónico",
+    "description": "Pronombre que puede funcionar como sujeto, atributo o como término de preposición.\n\n**Dámelo a mí.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Pronominalización",
+    "description": "Sustitución de un sintagma nominal en función de sujeto o de complemento por un pronombre personal.\n\n**El vestido con que te casaste.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Queísmo",
+    "description": "Fenómeno sintáctico que consiste en la omisión de algunas preposiciones (especialmente de) ante las subordinadas sustantivas que las requieren de acuerdo con el sistema gramatical del español.\n\n**Estoy seguro que me llamarán.* De ponerse 'de que'.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Raíz",
+    "description": "Morfema léxico que comparten las palabras de una misma familia, en las que suele expresar un significado común.\n\n**Arboleda.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Rema (o información nueva)",
+    "description": "Segmento de un enunciado que contiene la información que el emisor presenta como nueva o relevante informativamente, en relación con el tema.\n\n**¿Quén lo hizo? Lo hizo Papá.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Recategorización",
+    "description": "Proceso por el que una palabra perteneciente a una determinada categoría pasa a manifestar propiedades características de una categoría diferente.\n\n**El cantar de las aves.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Se dativo aspectual [en el gtg, aparece como “dativo”]",
+    "description": "Adjunto que posee carácter enfático y concuerda en número y persona con el sujeto oracional. Se puede prescindir de él sin que altere a la oración.\n\n**Marga se leyó la novela.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Se impersonal [en el gtg, debe buscarse “impersonal con se” o “impersonal refleja”]",
+    "description": "Aparece en oraciones sin sujeto expreso que están construidas con la forma pronominal se más un verbo en tercera persona del singular, intransitivo o copulativo. Esta forma aporta el significado de ‘la gente en general’, ‘alguien no determinado’, etc.\n\n**Se dice que es su amiga.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Se pronominal [en el gtg, debe buscarse “verbo pronominal”]",
+    "description": "Pronombre que construye verbos pronominales y no cumple ninguna función sintáctica, puesto que no constituyen argumentos del verbo. Concuerda con el sujeto en número y persona.\n\n**Los perfumes se extraen de las plantas.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Se pasivo reflejo [en el gtg, debe buscarse “oración (en voz) pasiva” y “oración pasiva refleja”]",
+    "description": "Pronombre que se incluye en las oraciones pasivas reflejas o pasivas con se, que se construyen con la forma pronominal se, de forma que el sujeto paciente concuerda con el verbo transitivo en número y persona.\n\n**Se alquila.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Se recíproco [en el gtg, aparece como “pronombre recíproco”]",
+    "description": "Pronombre personal plural que concuerda con su antecedente en un determinado entorno sintáctico (generalmente, la oración) y expresa reciprocidad.\n\n**Se aman.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Se reflexivo [en el gtg, aparece como “pronombre reflexivo”]",
+    "description": "Pronombre personal que concuerda con su antecedente en un determinado entorno sintáctico y expresa que la persona que desempeña la acción y aquella en quien recae son la misma persona.\n\n**Se peina.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Selección [en el gtg, aparece como “régimen” o “dependencia”]",
+    "description": "Relación de dependencia sintáctica, directa y forzosa, de un segmento respecto de otro, como la del complemento directo respecto del verbo. En la actualidad este término se suele emplear en un sentido más restrictivo, aplicado a los complementos de régimen.\n\n**V. transitivo + CD (SIEMPRE)**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Singular",
+    "description": "Número que se manifiesta a través de determinada concordancia y que en nombres y pronombres expresa la referencia a una unidad.\n\n**Mesa.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Singularia tantum",
+    "description": "Nombre que solo se usa en singular.\n\n**Fe.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Sinonimia (sinónimo)",
+    "description": "Dicho de una palabra o de una expresión que, respecto de otra, tiene el mismo significado o muy parecido. Se clasifican en sinónimos totales y parciales.\n\n**Gato = Minino**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Sintagma adjetival",
+    "description": "Sintagma que tiene por núcleo un adjetivo.\n\n**Enamorada.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Sintagma adverbial",
+    "description": "Sintagma que tiene por núcleo un adverbio.\n\n**Lentamente.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Sintagma nominal",
+    "description": "Sintagma que tiene por núcleo un nombre.\n\n**Pantalón.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Sintagma preposicional",
+    "description": "Sintagma que tiene por núcleo una preposición o que está encabezado por ella.\n\n**Por allí.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Sintagma verbal",
+    "description": "Sintagma que tiene por núcleo un verbo.\n\n**Corre.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Subordinación",
+    "description": "Dicho de una oración que tiene una relación de dependencia con otra.\n\n**Me mostró que me odiaba.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Sufijo [sufijación]",
+    "description": "Dicho de un afijo que va pospuesto a la base léxica. [Proceso de formación de palabras por medio de sufijos.]\n\n**Bellísima.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Sufijo apreciativo",
+    "description": "Dicho de un sufijo que expresa una valoración afectiva de lo denotado por el vocablo al que se une.\n\n**Pequeñito.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Sufijo aumentativo",
+    "description": "Dicho de un sufijo que expresa aumento, intensidad o exceso de lo denotado por el vocablo al que se une.\n\n**Perrazo.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Sufijo despectivo",
+    "description": "Dicho de un sufijo que se añade a una palabra para formar un despectivo.\n\n**Pueblucho.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Sufijo diminutivo",
+    "description": "Dicho de un sufijo que expresa disminución, atenuación o intensidad de lo denotado por el vocablo al que se une, o que valora afectivamente su significación.\n\n**Pequeñín.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Sujeto",
+    "description": "Función sintáctica desempeñada por un sintagma nominal que concuerda en número y persona con el verbo, o por una oración subordinada sustantiva que requiere un verbo en tercera persona. Siempre es argumental. Tipos de sujeto: agente/paciente, expreso/tácito y simple/compuesto.\n\n**Me gustan los árboles.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Sujeto tácito",
+    "description": "Sujeto elidido, elíptico u omitido en una oración.\n\n**(Él/Ella) fue a cenar.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Tema (o información conocida)",
+    "description": "Segmento de un enunciado que expresa el contenido que el emisor presenta como conocido por el destinatario, y que constituye la base sobre la que apoya la información que quiere aportar como novedad (rema). La posición inicial indica que la información es temática.\n\n**¿Cuándo aterrizó el avión? Aterrizó ayer.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Término (de la preposición)",
+    "description": "Función sintáctica desempeñada por el segmento sintáctico introducido por la preposición y, por extensión, ese mismo constituyente. Son términos de preposición los sintagmas nominales, las oraciones de relativo sin antecedente expreso, las oraciones subordinadas sustantivas y los adverbios pronominales. En ocasiones, también lo son otros sintagmas preposicionales.\n\n**Te amo por esto.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Verbo auxiliar",
+    "description": "Verbo que se emplea en la formación de los tiempos compuestos, de la voz pasiva y de las perífrasis verbales, y que suele aportar información temporal, modal o aspectual.\n\n**Lo ha hecho.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Verbo auxiliado",
+    "description": "Verbo en forma no personal que aporta el significado léxico en los tiempos compuestos, en la voz pasiva y en las perífrasis verbales.\n\n**Lo ha hecho.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Verbo copulativo",
+    "description": "Verbo de escaso contenido léxico que une un sujeto con un atributo.\n\n**Ser, estar o parecer.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Verbo semicopulativo",
+    "description": "Verbo predicativo que, como consecuencia de un proceso de gramaticalización, ha perdido parte de su significado léxico. Se emplea por ello como nexo copulativo y se construye con un atributo que constituye el verdadero significado.\n\n**Conchi anda enfadada.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Verbo inacusativo",
+    "description": "Verbo intransitivo que expresa presencia, aparición o acaecimiento. En lugar de un agente, el sujeto de estos verbos suele designar la entidad afectada por el evento que el verbo designa.\n\n**El agua hierve.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Verbo inergativo",
+    "description": "Verbo intransitivo que expresan una acción desempeñada por un sujeto agente. No se pueden combinar con el adverbio “recién”.\n\n**Manel sonríe.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Verbo impersonal",
+    "description": "Verbo defectivo (que presenta una conjugación incompleta) que se emplea generalmente en tercera persona del singular y no se predica de un sujeto, sea léxico o tácito.\n\n**Hoy llueve.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Verbo intransitivo",
+    "description": "Verbo que carece de complemento directo.\n\n**Caminar mola.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Verbo modal",
+    "description": "Verbo que denota modalidad. Expresa, por tanto, obligación, capacidad, necesidad, posibilidad, incertidumbre y otras nociones similares que manifiestan la valoración que hacen los hablantes de la forma de presentarse los sucesos o los estados de las cosas.\n\n**Deber, querer, saber...**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Verbo predicativo",
+    "description": "Verbo de contenido léxico pleno que puede constituir un predicado por sí mismo y selecciona un número determinado de argumentos a los que suele imponer restricciones sintácticas y semánticas.\n\n**Todos aquellos que no son ser, estar o parecer (copulativos).**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Verbo principal",
+    "description": "Verbo que toma como sujeto o complemento una oración subordinada sustantiva.\n\n**Susana dijo que lo hiciéramos.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Verbo pronominal",
+    "description": "Verbo que se construye en todas sus formas con pronombres reflexivos átonos que no desempeñan ninguna función sintáctica y que concuerdan con el sujeto.\n\n**Debe marcharse.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Verbo regular",
+    "description": "Verbo que no presenta alteraciones en la raíz y que se ajusta en su conjugación a los paradigmas que caracterizan las tres conjugaciones.\n\n**Bailar, cantar...**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Verbo irregular",
+    "description": "Verbo que, por razones históricas, no mantiene en su conjugación las formas fijadas como modelo del paradigma flexivo.\n\n**Caber --> Cupo**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Verbo transitivo",
+    "description": "Verbo que se construye con complemento directo.\n\n**Regalar, obtener...**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Vocal temática",
+    "description": "Vocal que diferencia las conjugaciones del verbo y se mantiene en algunos de sus derivados.\n\n**Saludaron.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Vocativo",
+    "description": "Dicho de una expresión nominal que se usa en función apelativa.\n\n**Hola, mi niña.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Yuxtaposición",
+    "description": "Unión de dos o más elementos gramaticales contiguos del mismo nivel jerárquico y sin partículas intermedias que los relacionen.\n\n**Lo quiero, lo tengo.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Texto argumentativo",
+    "description": "Tipo de texto que tiene como finalidad persuadir al lector sobre unas ideas o un posicionamiento en concreto\n\n**Texto publicitario.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Texto descriptivo",
+    "description": "Tipo de texto que tiene como objetivo principal transmitir de manera detallada las características, rasgos o cualidades de un objeto, persona, lugar, evento o situación\n\n**Descripción de un paisaje.**"
+  },
+  {
+    "type": "Términos gramaticales",
+    "name": "Texto expositivo",
+    "description": "Tipo de texto que aborda de manera objetiva un asunto o tema determinado, con la finalidad de dar a conocer e informar una serie de hechos, datos o conceptos específicos.\n\n**Ensayo.**"
+  },
+  {
+    "type": "Recursos Literarios",
+    "name": "Aliteración",
+    "description": "Se repiten determinados sonidos en una misma frase.\n\n**Verme morir entre memorias tristes.**"
+  },
+  {
+    "type": "Recursos Literarios",
+    "name": "Anadiplosis",
+    "description": "Se repite una palabra que va al final de un verso que coincide con la inicial del verso siguiente. Vaya que la frase que va al final de la línea es la misma que la inicial de la línea de abajo.\n\n**Oye, no temas, y a mi niña dile / dile que muero.**"
+  },
+  {
+    "type": "Recursos Literarios",
+    "name": "Anáfora",
+    "description": "Se repite una palabra al comienzo de una frase o un verbo.\n\n**Salga la luna, al caballero; / Salga la luna y vámonos luego.**"
+  },
+  {
+    "type": "Recursos Literarios",
+    "name": "Antítesis",
+    "description": "Se oponen dos ideas contrarias empleando frases contrarias o dos palabras que significan lo contrario.\n\n**Es tan corto el amor y tan largo el olvido.**"
+  },
+  {
+    "type": "Recursos Literarios",
+    "name": "Apóstrofe",
+    "description": "Dirigirse a un “tú” o a un “vosotros” aunque ese “tú” o ese “vosotros” no pueda contestar ya sea porque no está o porque es un objeto, irreal.\n\n**Olas gigantes que os rompéis bramando... ¡Llevadme con vosotras!**"
+  },
+  {
+    "type": "Recursos Literarios",
+    "name": "Asíndeton",
+    "description": "Usar comas en vez de las conjunciones.\n\n**Teníamos todo, poco, nada.**"
+  },
+  {
+    "type": "Recursos Literarios",
+    "name": "Encabalgamiento",
+    "description": "Consiste en no terminar las frases al final del verso, sino en el siguiente.\n\n**Una tarde parda y fría / de invierno los colegiales/ estudian. Monotonía/ de la lluvia en los cristales.**"
+  },
+  {
+    "type": "Recursos Literarios",
+    "name": "Enumeración",
+    "description": "Consiste en hacer una lista de palabras.\n\n**Había libros, papeles, trapos sucios y juguetes.**"
+  },
+  {
+    "type": "Recursos Literarios",
+    "name": "Epanadiplosis",
+    "description": "Se repiten unas palabras al inicio y al final del mismo verso.\n\n**¿Cómo era, Dios mío, cómo era?**"
+  },
+  {
+    "type": "Recursos Literarios",
+    "name": "Epífora",
+    "description": "Se repite una palabra al final de una frase o un verbo.\n\n**La niña, cuerpo garrido / morenica, cuerpo garrido,**"
+  },
+  {
+    "type": "Recursos Literarios",
+    "name": "Epíteto",
+    "description": "Uso de adjetivos innecesarios que no añaden ninguna información suplementaria.\n\n**El frío hielo.**"
+  },
+  {
+    "type": "Recursos Literarios",
+    "name": "Eufemismo",
+    "description": "Consiste en sustituir una palabra o expresión desagradable por otra de connotaciones menos negativas.\n\n**Cárcel --> Centro penitenciario**"
+  },
+  {
+    "type": "Recursos Literarios",
+    "name": "Hipérbaton",
+    "description": "Cambiar la distribución de las palabras de una forma más artificial, no sigue una estructura de oración normal/lógica.\n\n**Era la primavera la dulce flor de mi corazón.**"
+  },
+  {
+    "type": "Recursos Literarios",
+    "name": "Hipálage",
+    "description": "Consiste en aplicar a un sustantivo un adjetivo que corresponde a otra palabra.\n\n**El público llenaba las ruidosas gradas.**"
+  },
+  {
+    "type": "Recursos Literarios",
+    "name": "Hipérbole",
+    "description": "Se aumenta de forma exagerada una idea o concepto. (Exageración)\n\n**Érase una vez un hombre a una nariz pegado.**"
+  },
+  {
+    "type": "Recursos Literarios",
+    "name": "Interrogación retórica",
+    "description": "Consiste en hacer una pregunta que no exige respuesta; tiene una función estilística.\n\n**¿Qué será de mí?**"
+  },
+  {
+    "type": "Recursos Literarios",
+    "name": "Ironía",
+    "description": "Consiste en dar a entender lo contrario de lo que se dice de una manera humorística.\n\n**¡Ay, sí, eres guapísimo! (en realidad es feo)**"
+  },
+  {
+    "type": "Recursos Literarios",
+    "name": "Lítote o atenuación",
+    "description": "Consiste en atenuar un pensamiento, en no expresar todo lo que se quiere dar a entender. Suele consistir en negarse lo contrario de aquello que se quiere afirmar.\n\n**No he sacado buenas notas.**"
+  },
+  {
+    "type": "Recursos Literarios",
+    "name": "Metáfora",
+    "description": "Se nombra un concepto para hacer alusión a otro con el que guarda una relación.\n\n**Sus montañas de macizo oro.**"
+  },
+  {
+    "type": "Recursos Literarios",
+    "name": "Metonimia",
+    "description": "Poner otro nombre a un objeto con otro que tiene una relación de causa-efecto o parte-todo pero que no se le parece físicamente.\n\n**Me bebí una copa.**"
+  },
+  {
+    "type": "Recursos Literarios",
+    "name": "Oxímoron",
+    "description": "Contraste entre dos palabras concretas que se excluyen, se contraponen,normalmente una al lado de la otra, dentro de un mismo sintagma, pero que tienen un significado conjunto.\n\n**El ardiente hielo y la fría llama.**"
+  },
+  {
+    "type": "Recursos Literarios",
+    "name": "Paradoja",
+    "description": "Consiste en explicar una afirmación o situación que puede ser cierta pero que parece imposible o difícil de entender porque contiene dos hechos o características opuestas.\n\n**Muero por vivir.**"
+  },
+  {
+    "type": "Recursos Literarios",
+    "name": "Paralelismo",
+    "description": "Figura retórica que consiste en la repetición de una misma estructura gramatical.\n\n**La tumba era de mármol, / el mar era de agua.**"
+  },
+  {
+    "type": "Recursos Literarios",
+    "name": "Paronomasia",
+    "description": "Consiste en el uso de parónimos.\n\n**Niña, piña, tiña.**"
+  },
+  {
+    "type": "Recursos Literarios",
+    "name": "Personificación",
+    "description": "Dar cualidades humanas a un objeto o animal.\n\n**El papel se ríe.**"
+  },
+  {
+    "type": "Recursos Literarios",
+    "name": "Políptoton",
+    "description": "Consiste en la repetición de una misma palabra con diferentes morfemas flexivos.\n\n**¿Cómo quieres que te quiera si el que quiero que me quiera no me quiere como quiero que me quiera?**"
+  },
+  {
+    "type": "Recursos Literarios",
+    "name": "Polisíndeton",
+    "description": "Repetición de una conjunción dentro de una misma frase\n\n**Lo digo y lo siento y lo amo y lo odio.**"
+  },
+  {
+    "type": "Recursos Literarios",
+    "name": "Pleonasmo",
+    "description": "Utilizar intencionalmente palabras innecesarias que no añaden nada nuevo a la comprensión del mensaje.\n\n**Subir arriba.**"
+  },
+  {
+    "type": "Recursos Literarios",
+    "name": "Quiasmo",
+    "description": "Ordenación cruzada de elementos componenentes de dos grupos de palabras, contrariando así la simetría paralelística.\n\n**Por casco sus cabellos, su pecho por  coraza.**"
+  },
+  {
+    "type": "Recursos Literarios",
+    "name": "Retruécano",
+    "description": "Consiste en repetir una frase en sentido inverso.\n\n**Hay que vivir para trabajar, no trabajar para vivir.**"
+  },
+  {
+    "type": "Recursos Literarios",
+    "name": "Símil o comparación",
+    "description": "Comparar un término real con otro imaginario que se le asemeje en alguna cualidad. (Metáfora con estructura de comparación)\n\n**Es como el sol.**"
+  },
+  {
+    "type": "Recursos Literarios",
+    "name": "Sinécdoque",
+    "description": "Se hace alusión a una parte nombrando al todo o viceversa.\n\n**Se acercaban las espadas a matarnos.**"
+  },
+  {
+    "type": "Recursos Literarios",
+    "name": "Sinestesia",
+    "description": "Mezclar sensaciones de sentidos distintos (audición, visión,gusto, olfato, tacto) o mezclar dichas sensaciones con sentimientos  (tristeza,alegría, etc...)\n\n**Sentí aquel áspero olor.**"
+  },
+  {
+    "type": "Recursos Literarios",
+    "name": "Zeugma",
+    "description": "Consiste en utilizar una única vez una palabra que es necesaria emplear más veces en el texto o discurso.\n\n**La vi salir, pero no (la vi) volver.**"
+  }
+]
